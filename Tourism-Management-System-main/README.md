@@ -20,3 +20,5 @@ Software: XAMPP Server
 
 ## For login to admin panel:
 Open your browser and put inside browser "http://localhost/travel/Management/adminLogin.php"
+
+## Designed by Souvenir GISUBIZO And Jean Aime IRAGUHA
